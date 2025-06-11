@@ -4,7 +4,7 @@ from final import Movement
 
 def main():
     test_diff()
-    # test_integral()
+    test_integral()
 
 
 def test_diff():
