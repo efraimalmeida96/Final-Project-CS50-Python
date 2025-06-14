@@ -3,6 +3,8 @@
 # CALCULUS CALCULATOR 
 # ACELERATION, VELOCITY, POSITION 
 
+# EFRAIM IS GAY 
+
 import sympy
 
 def main():
