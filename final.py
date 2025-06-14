@@ -3,7 +3,7 @@
 # CALCULUS CALCULATOR 
 # ACELERATION, VELOCITY, POSITION 
 
-# aaaaa
+# eidi is King
 
 import sympy
 
