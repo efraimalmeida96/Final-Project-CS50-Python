@@ -3,8 +3,6 @@
 # CALCULUS CALCULATOR 
 # ACELERATION, VELOCITY, POSITION 
 
-# EFRAIM IS GAY 
-
 import sympy
 
 def main():
@@ -37,7 +35,7 @@ def main():
             print('EXITING...')
             break
  
-    #aaaaaaaaaa
+    
 def display():
 
     print('-=' * 15)
